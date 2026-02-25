@@ -1,4 +1,4 @@
-– Dynamic Arrays (MyVector<T>)
+Dynamic Arrays (MyVector<T>)
 
 ## Overview
 
